@@ -1,9 +1,5 @@
-[![@JeraldPascual15](https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif)](https://facebook.com/carlcastanas)
+[![@JeraldPascual15](https://www.canva.com/design/DAFYRiZCbCw/Gq08ciRqZNNVOoDq8QeNRA/watch?utm_content=DAFYRiZCbCw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://www.facebook.com/simn.ghst.rily.141)
 
-
-<div id="header" align="center">
-  <img src="https://www.canva.com/design/DAFYRiZCbCw/Gq08ciRqZNNVOoDq8QeNRA/watch?utm_content=DAFYRiZCbCw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="500"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/iamjerald55/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
