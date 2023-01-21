@@ -49,7 +49,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40">&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40">&nbsp;
-  <img src="https://www.pngfind.com/pngs/m/40-405209_github-clipart-github-logo-github-hd-png-download.png" title="github" alt="github" width="40">&nbsp;
 </div>
 
 ---
