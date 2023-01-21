@@ -13,7 +13,8 @@
   <a href="https://twitter.com/JeraldPascual55">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jerald-Pascual-15&style=flat-square&color=blue" alt=""/>
+ <br>
+  <img src="https://komarev.com/ghpvc/?username=Jerald-Pascual-15&style=flat-square&color=blue" alt="View Count"/>
   </div>
                                                                                                                            
   
