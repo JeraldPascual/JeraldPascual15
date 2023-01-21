@@ -38,7 +38,7 @@
     <br>
     <li>:loud_sound:I like music especially the soundtracks like one from the LOTR</li>
         <br>
-    <li>:desktop_computer:I love tech especially playing games</li>
+    <li>:desktop_computer:I love technology</li>
   </ul>
   </div>
   
@@ -52,5 +52,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40">&nbsp;
-  
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeraldPascual15&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
