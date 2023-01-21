@@ -23,8 +23,6 @@
   <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"/>
 </h1>
   
-  <hr>
-  
 <div align="center">
   <img src="https://i.pinimg.com/originals/cd/bc/65/cdbc65a84eb1fe90874840a961d3c0ca.gif" width="850"/>
 </div>
