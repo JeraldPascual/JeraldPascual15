@@ -1,4 +1,4 @@
-[![@carlcastanas]("https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif")](https://www.facebook.com/simn.ghst.rily.141)
+
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/simn.ghst.rily.141">
@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
 ---
