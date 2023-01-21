@@ -29,5 +29,5 @@
 ---
 
 <div id="about me">
-  :technologist:<h2>ABOUT ME</h2>
+<h2>:technologist:ABOUT ME</h2>
   </div>
