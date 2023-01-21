@@ -22,7 +22,7 @@
   <hr>
   
 <div align="center">
-  <img src="https://64.media.tumblr.com/3050089750e85f34aac5d2b08d50453a/72461282b15b99f9-35/s1280x1920/784fdb27877c49f112de25fdb92742c54c8f9518.gifv" width="800" height="400"/>
+  <img src="https://64.media.tumblr.com/3050089750e85f34aac5d2b08d50453a/72461282b15b99f9-35/s1280x1920/784fdb27877c49f112de25fdb92742c54c8f9518.gifv" width="850" height="400"/>
 </div>
 
 <div id="about me">
