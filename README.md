@@ -22,7 +22,7 @@
   <hr>
   
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cd/bc/65/cdbc65a84eb1fe90874840a961d3c0ca.gif"/>
+  <img src="https://i.pinimg.com/originals/cd/bc/65/cdbc65a84eb1fe90874840a961d3c0ca.gif" width="850"/>
 </div>
 
 <div id="about me">
@@ -54,9 +54,6 @@
 
 ---
 ### :fire: My Stats :
-<div id="dino">
-<img source="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
-  </div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeraldPascual15&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
