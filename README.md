@@ -29,5 +29,7 @@
 ---
 
 <div id="about me">
-<h2>:technologist:ABOUT ME</h2>
+- <h2>:technologist:ABOUT ME:</h2>
+-
+  
   </div>
