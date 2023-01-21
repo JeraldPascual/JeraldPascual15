@@ -28,4 +28,6 @@
 
 ---
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<div id="about me">
+  <h2>ABOUT ME</h2>
+  </div>
