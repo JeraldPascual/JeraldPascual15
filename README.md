@@ -27,13 +27,8 @@
 
 <div id="about me">
   <h2>:technologist:ABOUT ME:</h2>
-  <style>
-image {
-  float: right;
-}
-</style>
-  <img id="image" source="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif">
-  I am a 10th grade student:student: learning web development
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" align="right">
+  I am a 10th grade student :student: learning web development
   <br>
   <br>
   <ul>
