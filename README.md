@@ -20,9 +20,6 @@
 
 <div id="about me">
   <h2>:technologist:ABOUT ME:</h2>
-    <h1 align="center">
-  Haloo
-  <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"/>
 </h1>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" align="right" width="150">
   I am a 10th grade student :student: learning web development
