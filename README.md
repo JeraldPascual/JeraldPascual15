@@ -25,7 +25,7 @@
   <img src="https://64.media.tumblr.com/3050089750e85f34aac5d2b08d50453a/72461282b15b99f9-35/s1280x1920/784fdb27877c49f112de25fdb92742c54c8f9518.gifv" width="600" height="300"/>
 </div>
 
-<div id="about me" style="font-family: monospace;">
+<div id="about me">
   <h2>:technologist:ABOUT ME:</h2>
   I am a 10th grade student:student: learning web development
   <br>
@@ -42,7 +42,7 @@
   ---
   
   ### :hammer_and_wrench: Languages and Tools:
-  <div id="languages and tools" align="center">
+  <div id="languages and tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -55,3 +55,4 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeraldPascual15&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+
