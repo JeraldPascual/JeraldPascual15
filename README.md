@@ -1,9 +1,3 @@
-
-<h1 id="hey there" align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div>
