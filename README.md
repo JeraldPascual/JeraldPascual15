@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="320"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.facebook.com/simn.ghst.rily.141">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
