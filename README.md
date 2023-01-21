@@ -14,18 +14,18 @@
   <img src="https://img.shields.io/badge/JeraldPascual55-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <h2>:technologist:ABOUT ME :</h2>
+  <h2>:technologist: QUICK FACTS :</h2>
 </h1>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" align="right" width="150">
-  -I am currently a Grade 10 student :student:
+  -I am currently a Grade 10 student :student:.
   <br>
   <br>
   <ul>
-    <li>:compass:Wandering in the internet is my hobby</li>
+    <li>:mountain:	Wandering in the internet is my hobby.</li>
     <br>
-    <li>:loud_sound:I like music especially the soundtracks like one from the LOTR</li>
+    <li>:musical_note:I like music especially the soundtracks like one from the LOTR.</li>
         <br>
-    <li>:desktop_computer:I love playing games,watching videos, and coding</li>
+  <li>:desktop_computer:I love playing games,watching videos, and coding.</li>
   </ul>
   
   ---
