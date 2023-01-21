@@ -32,8 +32,10 @@
   <h2>:technologist:ABOUT ME:</h2>
   I am a 10th grade student:student: learning web development
   <ul>
-    <li>Adventuring in the world of Web Development</li>
+    <li>:mag_right:Adventuring in the world of Web Development</li>
+    <br>
     <li>:loud_sound:I like music especially the soundtracks like one from the LOTR</li>
+        <br>
     <li>:desktop_computer:I love tech especially playing games</li>
   </ul>
   </div>
