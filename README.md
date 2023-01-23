@@ -22,7 +22,6 @@
 
   <h2>:technologist: QUICK FACTS :</h2>
 </h1>
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" align="right" width="150">
   -I am currently a Grade 10 student :student:.
   <br>
   <br>
@@ -48,7 +47,7 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeraldPascual15&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+![JeraldPascual15 GitHub stats](https://github-readme-stats.vercel.app/api?username=JeraldPascual15&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
