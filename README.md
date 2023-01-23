@@ -49,3 +49,4 @@
 
 ### :eyes: View Count :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeraldPascual15&label=Profile%20views&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="View-Counter" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
