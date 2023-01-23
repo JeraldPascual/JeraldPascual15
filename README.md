@@ -1,7 +1,7 @@
 [![@JeraldPascual15](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Gh%C3%B8st.gif)](https://www.facebook.com/simn.ghst.rily.141)
 
 <div>
-<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" align="left" width="130">
+<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" align="left" width="150">
   </div>
   
 ### Interact with Me :
