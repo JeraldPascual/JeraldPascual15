@@ -16,19 +16,7 @@
   <a href="https://stackoverflow.com/users/20851639/jeraldpascual15">
   <img src="https://img.shields.io/badge/JeraldPascual15-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
 
-  <h2>:technologist: QUICK FACTS :</h2>
-</h1>
-  -I am currently a Grade 10 student :student:.
-  <br>
-  <br>
-  <ul>
-    <li>:mountain:	Wandering in the internet is my hobby.</li>
-    <br>
-    <li>:musical_note:I like music especially the soundtracks like one from the LOTR.</li>
-        <br>
-  <li>:desktop_computer:I love playing games,watching videos, and coding.</li>
-  </ul>
-  
+
   ---
   
   ### :hammer_and_wrench: Languages and Tools I use :
