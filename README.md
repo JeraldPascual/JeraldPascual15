@@ -10,8 +10,8 @@
   <a href="https://www.youtube.com/channel/UCLjbz-Q1o1T-bHv5iupszDQ">
     <img src="https://img.shields.io/badge/Taofetch-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/JeraldPascual55">
-  <img src="https://img.shields.io/badge/JeraldPascual55-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/JeraldPascual_">
+  <img src="https://img.shields.io/badge/JeraldPascual-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/20851639/jeraldpascual15">
   <img src="https://img.shields.io/badge/JeraldPascual15-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
