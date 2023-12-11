@@ -19,7 +19,7 @@
 
   ---
   
-  ### :hammer_and_wrench: Languages and Tools I use :
+  ### 🛠️ Languages and Tools I use :
   <div id="languages and tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,12 +30,12 @@
 </div>
 
 ---
-### :fire: My Stats :
+### 🔥 My Stats :
 ![JeraldPascual GitHub stats](https://github-readme-stats.vercel.app/api?username=JeraldPascual&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :eyes: View Count :
+### 👀 View Count :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeraldPascual15&label=Profile%20views&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="View-Counter" /> </p>
