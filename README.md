@@ -1,4 +1,4 @@
-[![@JeraldPascual](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Github%20Banner.gif)](https://www.facebook.com/Jerald.Pascual.15)
+[![@JeraldPascual](https://raw.githubusercontent.com/JeraldPascual/JeraldPascual/main/Add%20a%20heading.gif)](https://www.facebook.com/Jerald.Pascual.15)
   
 ### Interact with Me :
   <a href="https://www.instagram.com/JeraldPascual_/" >
